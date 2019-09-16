@@ -1,6 +1,7 @@
 {
     "name": "mimic/response",
     "license": "MIT",
+    "version":"dev",
     "authors": [
         {
             "name": "qc",
