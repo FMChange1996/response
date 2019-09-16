@@ -1,0 +1,11 @@
+{
+    "name": "mimic/response",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qc",
+            "email": "1559276123@qq.com"
+        }
+    ],
+    "require": {}
+}
