@@ -1,4 +1,5 @@
 <?php
+namespace Response;
 /**
  * Created by PhpStorm.
  * User: qianchao
